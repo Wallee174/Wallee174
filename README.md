@@ -1,5 +1,3 @@
-##![image alt](https://github.com/Wallee174/Wallee174/blob/main/banner%20(1).png)##
-
 - 🌱 I’m currently learning automated testing in Python / Java
 - 📫 You can write to me: ValeraKalanov@yandex.ru
 
