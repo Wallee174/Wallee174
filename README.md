@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Valeriy
 - 👀 I’m looking for a job as QA Engineer/Analytics
-- 🌱 I’m currently learning automated testing in C# / Python 
+- 🌱 I’m currently learning automated testing in Python / Java
 - 📫 You can write to me: ValeraKalanov@yandex.ru
 
 ## My GutHub Stats :shark:
