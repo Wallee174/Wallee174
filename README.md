@@ -1,7 +1,5 @@
-![image alt](https://github.com/Wallee174/Wallee174/blob/main/banner%20(1).png)
+##![image alt](https://github.com/Wallee174/Wallee174/blob/main/banner%20(1).png)##
 
-- 👋 Hi, I’m Valeriy
-- 👀 I’m looking for a job as QA Engineer/Analytics
 - 🌱 I’m currently learning automated testing in Python / Java
 - 📫 You can write to me: ValeraKalanov@yandex.ru
 
